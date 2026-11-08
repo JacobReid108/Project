@@ -1,3 +1,6 @@
+LinkedIn: https://www.linkedin.com/in/jacob-reid-541935334/
+Email: jacobreid108@gmail.com
+
 # Wearable Device Health Data Analysis
 
 An end-to-end data cleaning and exploratory analysis of a simulated multi-user
